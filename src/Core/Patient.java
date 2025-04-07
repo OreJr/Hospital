@@ -8,7 +8,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author Car
+ * @author OreJr
  */
 public class Patient {
     private int id;

@@ -4,7 +4,7 @@
  */
 package main;
 
-import Core.Hospital;
+import core.Hospital;
 
 /**
  *
@@ -143,3 +143,4 @@ Patient 53 has an appoiment with the doctor 3
 Patient 53 has an appoiment with the doctor 3
 Patient 53 has an appoiment with the doctor 3
 */
+

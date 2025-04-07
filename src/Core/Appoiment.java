@@ -6,7 +6,7 @@ package Core;
 
 /**
  *
- * @author Car
+ * @author OreJr
  */
 public class Appoiment {
     private Doctor doctor;

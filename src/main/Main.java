@@ -4,6 +4,8 @@
  */
 package main;
 
+import Core.Hospital;
+
 /**
  *
  * @author OreJr
